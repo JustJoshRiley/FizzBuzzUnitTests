@@ -253,8 +253,9 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "test": "jest",
-    "coverage": "jest --collectCoverage --"
+    
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest --",
+    "coverage": "cross-env NODE_OPTIONS=--experimental-vm-modules jest --collectCoverage --"
   },
   "repository": {
     "type": "git",
