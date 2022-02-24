@@ -253,7 +253,8 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --collectCoverage --"
   },
   "repository": {
     "type": "git",
