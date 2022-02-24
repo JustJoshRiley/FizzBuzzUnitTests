@@ -1,5 +1,12 @@
 # Fizz Buzz Unit Tests
 
+## Badges:
+![example workflow](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/node.js.yml/badge.svg)
+
+
+[![Jest](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/node.js.yml/badge.svg](https://github.com/Tech-at-DU/GitHub-Actions/actions/workflows/node.js.yml/badge.svg)
+
+
 Fizz Buzz starter code for FEW 2.1
 
 The goal of this project is to write unit tests for Fizz Buzz using Jest.
